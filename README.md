@@ -13,6 +13,9 @@
 * modDCNN model: [experiments_modDCNN.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/experiments_modDCNN.ipynb)
 * Kaggle model: [experiments_Kaggle.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/experiments_Kaggle.ipynb)
 * GRU model: [experiments_LSTM.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/experiments_GRU.ipynb)
+* MCNN model: [experiments_LSTM.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/itasarom). Originally commited to [Mazaev Pavel's repository](https://github.com/itasarom/sound)
+
+
 
 # Raw input models
 
