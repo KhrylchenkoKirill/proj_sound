@@ -7,6 +7,7 @@
 
 # Standard models
 
+* data preparation: [data_preparation.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/data_preparation.ipynb)
 * DCNN model: [experiments_DCNN.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/experiments_DCNN.ipynb)
 > (based on [Deep Convolutional Neural Network for Environmental Sound Classification](https://arxiv.org/pdf/1608.04363v2.pdf))
 * modDCNN model: [experiments_modDCNN.ipynb](https://github.com/KhrylchenkoKirill/proj_sound/blob/master/experiments_modDCNN.ipynb)
